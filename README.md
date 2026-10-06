@@ -56,25 +56,13 @@ I approach analytics with a product engineering mindset. Every pipeline, metric 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,r,js,ts,java,c,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,r&theme=dark" />
 </p>
 
-**Frontend**
+**Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma&theme=dark" />
-</p>
-
-**Backend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,sqlite,postgres&theme=dark" />
-</p>
-
-**Cloud, DevOps & Tooling**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 </p>
 
 **Analytics & BI**
@@ -87,6 +75,12 @@ I approach analytics with a product engineering mindset. Every pipeline, metric 
   <img src="https://img.shields.io/badge/Pandas-4F46E5?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-6366F1?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+**Tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode&theme=dark" />
 </p>
 
 ---
@@ -250,26 +244,6 @@ Worked on an industrial analytics initiative focused on predicting gear faults f
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Aryan17289&theme=midnight-purple&hide_border=true&background=0D0B1F&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aryan17289&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan17289&bg_color=0D0B1F&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" width="100%" />
 
 </div>
 
