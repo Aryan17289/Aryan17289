@@ -75,7 +75,7 @@ Right now:
 | **Built** | 9-table SQLite database from 8 raw CSVs, RFM segmentation, 5-page Power BI dashboard, standalone HTML dashboard |
 | **Found** | 25x revenue growth in 13 months, AOV falling from R$175 to R$155, Sao Paulo at 37% of revenue, and a retention gap worth millions |
 | **Stack** | Python, SQL, SQLite, Power BI |
-| **Repo** | [RetailPulse---E-Commerce-Analytics](https://github.com/Aryan17289/RetailPulse---E-Commerce-Analytics) |
+| **Repo** | [RetailPulse---E-Commerce-Analytics](https://github.com/Aryan17289/RetailPulse-Ecommerce-Analytics) |
 
 </details>
 
