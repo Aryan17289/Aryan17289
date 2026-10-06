@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20&height=220&section=header&text=Aryan%20Chauhan&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Predictive%20Analytics&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20&height=220&section=header&text=Aryan%20Chauhan&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Machine%20Learning&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Turning+raw+data+into+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;RFM+%7C+KPI+Design+%7C+Predictive+Maintenance;Open+to+work+in+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Turning+raw+data+into+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Machine+Learning+%7C+RFM+%7C+Predictive+Maintenance;Open+to+work+in+Data+Analytics" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,7 +22,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aryan17289&label=Profile+Views&color=7C3AED&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Aryan17289?label=Followers&style=flat-square&color=4F46E5&labelColor=1E1B4B)
 ![Stars](https://img.shields.io/github/stars/Aryan17289?label=Stars&style=flat-square&color=8B5CF6&labelColor=1E1B4B)
 
@@ -32,9 +31,9 @@
 
 ## About
 
-Computer Science graduate with industry experience in data analytics and predictive maintenance. I build end-to-end analytics systems: from raw data ingestion and SQL modelling to dashboards and decision-ready insight, across revenue, customer and operational domains.
+Computer Science graduate with industry experience in data analytics, machine learning and predictive maintenance. I build end-to-end analytics systems: from raw data ingestion and SQL modelling to ML models, dashboards and decision-ready insight, across revenue, customer and operational domains.
 
-I approach analytics with a product engineering mindset. Every pipeline, metric and dashboard is designed around a business question, validated against real data, and shipped in a form that non-technical stakeholders can act on.
+I approach analytics with a product engineering mindset. Every pipeline, model, metric and dashboard is designed around a business question, validated against real data, and shipped in a form that non-technical stakeholders can act on.
 
 - Data Science & Analytics Intern at **Tech Elecon Pvt. Ltd.**, delivering ML fault classification with 97% accuracy and a real-time monitoring dashboard
 - Analysed 99,441 real e-commerce orders, building RFM segmentation on 93,357 customers
@@ -76,7 +75,22 @@ I approach analytics with a product engineering mindset. Every pipeline, metric 
   <img src="https://img.shields.io/badge/NumPy-6366F1?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-5B21B6?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-6D28D9?style=for-the-badge" />
+</p>
+
+**Machine Learning**
+
+<p>
   <img src="https://img.shields.io/badge/scikit--learn-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-4C1D95?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SVM-5B21B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gradient_Boosting-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SHAP-4338CA?style=for-the-badge" />
+</p>
+
+**Model Serving & Dashboards**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,react&theme=dark" />
 </p>
 
 **Cloud (AWS)**
@@ -105,13 +119,13 @@ I approach analytics with a product engineering mindset. Every pipeline, metric 
 
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
+| Machine Learning | ![](https://img.shields.io/badge/Intermediate-6366F1?style=flat-square) | Classification with SVM, XGBoost and Gradient Boosting Regression, achieving 97% fault-type accuracy |
+| Predictive Maintenance | ![](https://img.shields.io/badge/Intermediate-6366F1?style=flat-square) | Fault classification and Remaining Useful Life (RUL) estimation on gear sensor data |
+| Explainable AI | ![](https://img.shields.io/badge/Intermediate-6366F1?style=flat-square) | SHAP-based interpretation of model outputs for non-technical maintenance teams |
 | Exploratory Data Analysis | ![](https://img.shields.io/badge/Advanced-7C3AED?style=flat-square) | Data cleaning, anomaly detection and trend analysis on 8-channel sensor data and large transactional datasets |
 | SQL & Data Modelling | ![](https://img.shields.io/badge/Advanced-7C3AED?style=flat-square) | Relational schema design, window functions, CTEs, subqueries and stored procedures |
 | Business Intelligence | ![](https://img.shields.io/badge/Advanced-7C3AED?style=flat-square) | Multi-page Power BI and Tableau dashboards with drill-down and KPI tracking |
 | Customer Analytics | ![](https://img.shields.io/badge/Advanced-7C3AED?style=flat-square) | RFM segmentation, cohort analysis, retention and repurchase behaviour |
-| Predictive Maintenance | ![](https://img.shields.io/badge/Intermediate-6366F1?style=flat-square) | Fault classification and Remaining Useful Life (RUL) estimation on gear sensor data |
-| Machine Learning | ![](https://img.shields.io/badge/Intermediate-6366F1?style=flat-square) | SVM, XGBoost and Gradient Boosting Regression with 97% fault-type accuracy |
-| Explainability | ![](https://img.shields.io/badge/Intermediate-6366F1?style=flat-square) | SHAP-based interpretation of model outputs for non-technical maintenance teams |
 | Statistical Analysis | ![](https://img.shields.io/badge/Intermediate-6366F1?style=flat-square) | A/B testing and hypothesis testing |
 
 </div>
@@ -219,11 +233,12 @@ Worked on an industrial analytics initiative focused on predicting gear faults f
 ![Python](https://img.shields.io/badge/Python-4C1D95?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-5B21B6?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-6D28D9?style=flat-square&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-4338CA?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-4F46E5?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-6366F1?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-5B21B6?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-4338CA?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-4F46E5?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-6366F1?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-5B21B6?style=flat-square&logo=react&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-6D28D9?style=flat-square)
 
 ---
 
@@ -267,16 +282,6 @@ Worked on an industrial analytics initiative focused on predicting gear faults f
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Aryan17289&theme=midnight-purple&hide_border=true&background=0D0B1F&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aryan17289/Aryan17289/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
