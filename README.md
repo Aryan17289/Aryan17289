@@ -53,7 +53,7 @@ Right now:
 
 <div align="center">
 
-<a href="https://github.com/Aryan17289/RetailPulse---E-Commerce-Analytics">
+<a href="https://github.com/Aryan17289/RetailPulse-Ecommerce-Analytics">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan17289&repo=RetailPulse---E-Commerce-Analytics&theme=midnight-purple&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
 </a>
 <a href="https://github.com/Aryan17289/QuickBite---Analytics">
